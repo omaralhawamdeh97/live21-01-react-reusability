@@ -1,4 +1,4 @@
-.AppWrapper {
+/* .AppWrapper {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -7,9 +7,9 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
+} */
 
-.TagWrapper {
+/* .TagWrapper {
   display: flex;
   align-items: center;
 
@@ -27,9 +27,9 @@
 
 .TagWrapper:hover {
   background-color: rgba(0, 0, 0, 0.8);
-}
+} */
 
-.Emoji {
+/* .Emoji {
   margin-right: 20px;
   font-size: 1.6em;
 }
@@ -39,10 +39,10 @@
   font-size: 1.6em;
   font-weight: 500;
   color: rgba(255, 255, 255, 0.9);
-}
+} */
 
-.GoToGithub {
+/* .GoToGithub {
   font-size: 0.8em;
   user-select: none;
   color: rgba(255, 255, 255, 0.3);
-}
+} */
