@@ -5,14 +5,14 @@ export const Emoji = styled.span`
   font-size: 1.6em;
 `;
 
-export const InsName = styled.span`
+export const Name = styled.span`
   flex-grow: 1;
   font-size: 1.6em;
   font-weight: 500;
   color: rgba(255, 255, 255, 0.9);
 `;
 
-export const GitHub = styled.span`
+export const Github = styled.span`
   font-size: 0.8em;
   user-select: none;
   color: rgba(255, 255, 255, 0.3);
